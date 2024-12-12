@@ -1,0 +1,1284 @@
+# depslib dependency file v1.0
+1718336498 source:c:\users\nahuel\desktop\juego\juego\funciones.cpp
+	<iostream>
+	<windows.h>
+
+1718336473 source:c:\users\nahuel\desktop\juego\juego\main.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+
+1718335247 c:\users\nahuel\desktop\juego\juego\funciones.h
+	<iostream>
+	<windows.h>
+
+1718335817 c:\users\nahuel\desktop\juego\juego\modounjugador.h
+	<iostream>
+
+1718335817 source:c:\users\nahuel\desktop\juego\juego\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+
+1718335817 source:c:\users\nahuel\desktop\juego\juego\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+
+1718335817 c:\users\nahuel\desktop\juego\juego\mododosjugadores.h
+	<iostream>
+
+1718406344 source:c:\users\lab\desktop\proyecto-juego v1.0-20240614t211204z-001\proyecto-juego v1.0\juego\juego\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+
+1718409438 c:\users\lab\desktop\proyecto-juego v1.0-20240614t211204z-001\proyecto-juego v1.0\juego\juego\funciones.h
+	<iostream>
+	<windows.h>
+
+1718405470 c:\users\lab\desktop\proyecto-juego v1.0-20240614t211204z-001\proyecto-juego v1.0\juego\juego\modounjugador.h
+
+1718405470 c:\users\lab\desktop\proyecto-juego v1.0-20240614t211204z-001\proyecto-juego v1.0\juego\juego\mododosjugadores.h
+
+1718405148 source:c:\users\lab\desktop\proyecto-juego v1.0-20240614t211204z-001\proyecto-juego v1.0\juego\juego\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+
+1718411399 source:c:\users\lab\desktop\proyecto-juego v1.0-20240614t211204z-001\proyecto-juego v1.0\juego\juego\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+
+1718409438 source:c:\users\lab\desktop\proyecto-juego v1.0-20240614t211204z-001\proyecto-juego v1.0\juego\juego\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1718405934 c:\users\lab\desktop\proyecto-juego v1.0-20240614t211204z-001\proyecto-juego v1.0\juego\juego\calcularpuntaje.h
+
+1718407679 source:c:\users\lab\desktop\proyecto-juego v1.0-20240614t211204z-001\proyecto-juego v1.0\juego\juego\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1718407679 source:c:\users\diego\desktop\utn 2024\juego proyecto final\proyecto-juego v1.1\juego\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1718405934 c:\users\diego\desktop\utn 2024\juego proyecto final\proyecto-juego v1.1\juego\calcularpuntaje.h
+
+1718409438 c:\users\diego\desktop\utn 2024\juego proyecto final\proyecto-juego v1.1\juego\funciones.h
+	<iostream>
+	<windows.h>
+
+1718409438 source:c:\users\diego\desktop\utn 2024\juego proyecto final\proyecto-juego v1.1\juego\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1718406344 source:c:\users\diego\desktop\utn 2024\juego proyecto final\proyecto-juego v1.1\juego\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+
+1718405470 c:\users\diego\desktop\utn 2024\juego proyecto final\proyecto-juego v1.1\juego\modounjugador.h
+
+1718405470 c:\users\diego\desktop\utn 2024\juego proyecto final\proyecto-juego v1.1\juego\mododosjugadores.h
+
+1718405148 source:c:\users\diego\desktop\utn 2024\juego proyecto final\proyecto-juego v1.1\juego\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+
+1718597050 source:c:\users\diego\desktop\utn 2024\juego proyecto final\proyecto-juego v1.1\juego\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+
+1718407679 source:c:\users\diego\desktop\juegooo\version2\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1718405934 c:\users\diego\desktop\juegooo\version2\calcularpuntaje.h
+
+1718409438 c:\users\diego\desktop\juegooo\version2\funciones.h
+	<iostream>
+	<windows.h>
+
+1719535265 source:c:\users\diego\desktop\juegooo\version2\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dibujarCuadrado.h"
+
+1718406344 source:c:\users\diego\desktop\juegooo\version2\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+
+1718405470 c:\users\diego\desktop\juegooo\version2\modounjugador.h
+
+1718405470 c:\users\diego\desktop\juegooo\version2\mododosjugadores.h
+
+1718405148 source:c:\users\diego\desktop\juegooo\version2\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+
+1719449796 source:c:\users\diego\desktop\juegooo\version2\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+
+1719449379 source:c:\users\diego\desktop\juegooo\version2\dibujarcuadrado.cpp
+	<iostream>
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1719449625 c:\users\diego\desktop\juegooo\version2\dibujarcuadrado.h
+
+1718601977 c:\users\diego\desktop\juegooo\version2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1718407679 source:c:\users\alumno\desktop\juego 28jun\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1718405934 c:\users\alumno\desktop\juego 28jun\calcularpuntaje.h
+
+1718409438 c:\users\alumno\desktop\juego 28jun\funciones.h
+	<iostream>
+	<windows.h>
+
+1719612801 source:c:\users\alumno\desktop\juego 28jun\dibujarcuadrado.cpp
+	<iostream>
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1719611385 c:\users\alumno\desktop\juego 28jun\dibujarcuadrado.h
+
+1718601977 c:\users\alumno\desktop\juego 28jun\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719612702 source:c:\users\alumno\desktop\juego 28jun\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1718406344 source:c:\users\alumno\desktop\juego 28jun\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+
+1718405470 c:\users\alumno\desktop\juego 28jun\modounjugador.h
+
+1718405470 c:\users\alumno\desktop\juego 28jun\mododosjugadores.h
+
+1718405148 source:c:\users\alumno\desktop\juego 28jun\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+
+1719612133 source:c:\users\alumno\desktop\juego 28jun\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1718407679 source:c:\users\alumno\desktop\juego ultima actualizacion\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1718405934 c:\users\alumno\desktop\juego ultima actualizacion\calcularpuntaje.h
+
+1719619044 c:\users\alumno\desktop\juego ultima actualizacion\funciones.h
+	<iostream>
+	<windows.h>
+
+1719612801 source:c:\users\alumno\desktop\juego ultima actualizacion\dibujarcuadrado.cpp
+	<iostream>
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1719611385 c:\users\alumno\desktop\juego ultima actualizacion\dibujarcuadrado.h
+
+1718601977 c:\users\alumno\desktop\juego ultima actualizacion\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719616003 source:c:\users\alumno\desktop\juego ultima actualizacion\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1719619466 source:c:\users\alumno\desktop\juego ultima actualizacion\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1718405470 c:\users\alumno\desktop\juego ultima actualizacion\mododosjugadores.h
+
+1719615981 source:c:\users\alumno\desktop\juego ultima actualizacion\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1718405470 c:\users\alumno\desktop\juego ultima actualizacion\modounjugador.h
+
+1719613505 source:c:\users\alumno\desktop\juego ultima actualizacion\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+
+1719619551 source:c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1719619551 c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\calcularpuntaje.h
+
+1719619551 c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\funciones.h
+	<iostream>
+	<windows.h>
+
+1719619551 source:c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\dibujarcuadrado.cpp
+	<iostream>
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1719619551 c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\dibujarcuadrado.h
+
+1719619553 c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719619551 source:c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1719619553 source:c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+
+1719619553 c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\modounjugador.h
+
+1719619553 c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\mododosjugadores.h
+
+1719881945 source:c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1719619553 source:c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1719877800 source:c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\modosimulado.cpp
+	<iostream>
+	"modosimulado.h"
+
+1719877562 c:\users\diego\desktop\nueva carpeta (2)\juego ultima actualizacion\modosimulado.h
+
+1719619551 source:c:\users\diego\desktop\juego\01-07\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1719619551 c:\users\diego\desktop\juego\01-07\calcularpuntaje.h
+
+1719965752 c:\users\diego\desktop\juego\01-07\funciones.h
+	<iostream>
+	<windows.h>
+
+1719619551 source:c:\users\diego\desktop\juego\01-07\dibujarcuadrado.cpp
+	<iostream>
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1719619551 c:\users\diego\desktop\juego\01-07\dibujarcuadrado.h
+
+1719619553 c:\users\diego\desktop\juego\01-07\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719965752 source:c:\users\diego\desktop\juego\01-07\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1719963604 source:c:\users\diego\desktop\juego\01-07\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"menu.h"
+
+1719619553 c:\users\diego\desktop\juego\01-07\modounjugador.h
+
+1719619553 c:\users\diego\desktop\juego\01-07\mododosjugadores.h
+
+1719980564 source:c:\users\diego\desktop\juego\01-07\modosimulado.cpp
+	<iostream>
+	"modosimulado.h"
+
+1719967111 c:\users\diego\desktop\juego\01-07\modosimulado.h
+
+1719983825 source:c:\users\diego\desktop\juego\01-07\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+
+1719980557 source:c:\users\diego\desktop\juego\01-07\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1719967301 source:c:\users\diego\desktop\juego\01-07\puntajemasalto.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+
+1719965927 c:\users\diego\desktop\juego\01-07\puntajemasalto.h
+
+1719980780 source:c:\users\diego\desktop\juego\01-07\menu.cpp
+	<iostream>
+	"menu.h"
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"modosimulado.h"
+
+1719962627 c:\users\diego\desktop\juego\01-07\menu.h
+
+1719992744 source:c:\users\nahuel\desktop\juego\juego 03-07\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1719992514 c:\users\nahuel\desktop\juego\juego 03-07\calcularpuntaje.h
+
+1719965752 c:\users\nahuel\desktop\juego\juego 03-07\funciones.h
+	<iostream>
+	<windows.h>
+
+1719619551 source:c:\users\nahuel\desktop\juego\juego 03-07\dibujarcuadrado.cpp
+	<iostream>
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1719619551 c:\users\nahuel\desktop\juego\juego 03-07\dibujarcuadrado.h
+
+1719619553 c:\users\nahuel\desktop\juego\juego 03-07\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719965752 source:c:\users\nahuel\desktop\juego\juego 03-07\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1719963604 source:c:\users\nahuel\desktop\juego\juego 03-07\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"menu.h"
+
+1719619553 c:\users\nahuel\desktop\juego\juego 03-07\modounjugador.h
+
+1719619553 c:\users\nahuel\desktop\juego\juego 03-07\mododosjugadores.h
+
+1719965927 c:\users\nahuel\desktop\juego\juego 03-07\puntajemasalto.h
+
+1719962627 c:\users\nahuel\desktop\juego\juego 03-07\menu.h
+
+1719990550 source:c:\users\nahuel\desktop\juego\juego 03-07\menu.cpp
+	<iostream>
+	"menu.h"
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"modosimulado.h"
+
+1719967111 c:\users\nahuel\desktop\juego\juego 03-07\modosimulado.h
+
+1719993202 source:c:\users\nahuel\desktop\juego\juego 03-07\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720066544 source:c:\users\nahuel\desktop\juego\juego 03-07\modosimulado.cpp
+	<iostream>
+	"modosimulado.h"
+	"funciones.h"
+	"calcularPuntaje.h"
+
+1720066472 source:c:\users\nahuel\desktop\juego\juego 03-07\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+
+1719991102 source:c:\users\nahuel\desktop\juego\juego 03-07\puntajemasalto.cpp
+	<iostream>
+	"funciones.h"
+
+1720153432 source:c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1720074195 c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\calcularpuntaje.h
+
+1720074195 c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\funciones.h
+	<iostream>
+	<windows.h>
+
+1720074195 source:c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\dibujarcuadrado.cpp
+	<iostream>
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720074195 c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\dibujarcuadrado.h
+
+1720074199 c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720074195 source:c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720074197 source:c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"menu.h"
+
+1720074198 c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\modounjugador.h
+
+1720074197 c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\mododosjugadores.h
+
+1720074198 c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\puntajemasalto.h
+
+1720074197 c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\menu.h
+
+1720074197 source:c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\menu.cpp
+	<iostream>
+	"menu.h"
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"modosimulado.h"
+
+1720074197 c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\modosimulado.h
+
+1720154294 source:c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720074197 source:c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\modosimulado.cpp
+	<iostream>
+	"modosimulado.h"
+	"funciones.h"
+	"calcularPuntaje.h"
+
+1720153432 source:c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+
+1720074198 source:c:\users\nahuel\desktop\juego\juego 04-07 modo simulado (no anda)-20240705t041758z-001\juego 04-07 modo simulado (no anda)\puntajemasalto.cpp
+	<iostream>
+	"funciones.h"
+
+1720156965 source:c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1720156342 c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\calcularpuntaje.h
+	<iostream>
+	<windows.h>
+
+1720074195 c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\funciones.h
+	<iostream>
+	<windows.h>
+
+1720074195 source:c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\dibujarcuadrado.cpp
+	<iostream>
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720074195 c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\dibujarcuadrado.h
+
+1720074199 c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720074195 source:c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720074197 source:c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"menu.h"
+
+1720074198 c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\modounjugador.h
+
+1720074197 c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\mododosjugadores.h
+
+1720074198 c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\puntajemasalto.h
+
+1720074197 c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\menu.h
+
+1720074197 source:c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\menu.cpp
+	<iostream>
+	"menu.h"
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"modosimulado.h"
+
+1720074197 c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\modosimulado.h
+
+1720074197 source:c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\modosimulado.cpp
+	<iostream>
+	"modosimulado.h"
+	"funciones.h"
+	"calcularPuntaje.h"
+
+1720153432 source:c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+
+1720074198 source:c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\puntajemasalto.cpp
+	<iostream>
+	"funciones.h"
+
+1720157161 source:c:\users\nahuel\desktop\juego\juego 5-7 nahuel\juego 5-7 nahuel\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720156965 source:c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1720156342 c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\calcularpuntaje.h
+	<iostream>
+	<windows.h>
+
+1720074195 c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\funciones.h
+	<iostream>
+	<windows.h>
+
+1720074195 source:c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\dibujarcuadrado.cpp
+	<iostream>
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720074195 c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\dibujarcuadrado.h
+
+1720074199 c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720074195 source:c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720160278 source:c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"menu.h"
+
+1720074198 c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\modounjugador.h
+
+1720074197 c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\mododosjugadores.h
+
+1720074198 c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\puntajemasalto.h
+
+1720074197 c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\menu.h
+
+1720160302 source:c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\menu.cpp
+	<iostream>
+	"menu.h"
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"modosimulado.h"
+	<windows.h>
+	<mmsystem.h>
+
+1720074197 c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\modosimulado.h
+
+1720160278 source:c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720160278 source:c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\modosimulado.cpp
+	<iostream>
+	"modosimulado.h"
+	"funciones.h"
+	"calcularPuntaje.h"
+
+1720074198 source:c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\puntajemasalto.cpp
+	<iostream>
+	"funciones.h"
+
+1720160278 source:c:\users\diego\desktop\juego\nueva carpeta\juego 5-7 nahuel (desempate)\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+
+1720156965 source:c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1720156342 c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\calcularpuntaje.h
+	<iostream>
+	<windows.h>
+
+1720074195 c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\funciones.h
+	<iostream>
+	<windows.h>
+
+1720074195 source:c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\dibujarcuadrado.cpp
+	<iostream>
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720074195 c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\dibujarcuadrado.h
+
+1720074199 c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720074195 source:c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720160278 source:c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"menu.h"
+
+1720074198 c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\modounjugador.h
+
+1720074197 c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\mododosjugadores.h
+
+1720074198 c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\puntajemasalto.h
+
+1720074197 c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\menu.h
+
+1720160673 source:c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\menu.cpp
+	<iostream>
+	"menu.h"
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"modosimulado.h"
+	<windows.h>
+	<mmsystem.h>
+
+1720074197 c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\modosimulado.h
+
+1720160278 source:c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720160278 source:c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\modosimulado.cpp
+	<iostream>
+	"modosimulado.h"
+	"funciones.h"
+	"calcularPuntaje.h"
+
+1720160278 source:c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+
+1720074198 source:c:\users\nicol\downloads\carpetaultima\05-07 actualizacion\puntajemasalto.cpp
+	<iostream>
+	"funciones.h"
+
+1720506244 source:c:\users\diego\desktop\juego\05-07\05-07 actualizacion\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1720156342 c:\users\diego\desktop\juego\05-07\05-07 actualizacion\calcularpuntaje.h
+	<iostream>
+	<windows.h>
+
+1720074195 c:\users\diego\desktop\juego\05-07\05-07 actualizacion\funciones.h
+	<iostream>
+	<windows.h>
+
+1720074195 source:c:\users\diego\desktop\juego\05-07\05-07 actualizacion\dibujarcuadrado.cpp
+	<iostream>
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720074195 c:\users\diego\desktop\juego\05-07\05-07 actualizacion\dibujarcuadrado.h
+
+1720074199 c:\users\diego\desktop\juego\05-07\05-07 actualizacion\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720074195 source:c:\users\diego\desktop\juego\05-07\05-07 actualizacion\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720657438 source:c:\users\diego\desktop\juego\05-07\05-07 actualizacion\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"inicio.h"
+
+1720653478 c:\users\diego\desktop\juego\05-07\05-07 actualizacion\modounjugador.h
+
+1720653478 c:\users\diego\desktop\juego\05-07\05-07 actualizacion\mododosjugadores.h
+
+1720653478 c:\users\diego\desktop\juego\05-07\05-07 actualizacion\puntajemasalto.h
+
+1720653478 c:\users\diego\desktop\juego\05-07\05-07 actualizacion\menu.h
+
+1720657438 source:c:\users\diego\desktop\juego\05-07\05-07 actualizacion\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720552996 source:c:\users\diego\desktop\juego\05-07\05-07 actualizacion\modosimulado.cpp
+	<iostream>
+	"modosimulado.h"
+	"funciones.h"
+	"calcularPuntaje.h"
+
+1720074197 c:\users\diego\desktop\juego\05-07\05-07 actualizacion\modosimulado.h
+
+1720657471 source:c:\users\diego\desktop\juego\05-07\05-07 actualizacion\puntajemasalto.cpp
+	<iostream>
+	"funciones.h"
+	"inicio.h"
+
+1720653478 source:c:\users\diego\desktop\juego\05-07\05-07 actualizacion\menu.cpp
+	<iostream>
+	"menu.h"
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"modosimulado.h"
+	<windows.h>
+	<mmsystem.h>
+	"inicio.h"
+
+1720657438 source:c:\users\diego\desktop\juego\05-07\05-07 actualizacion\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"inicio.h"
+
+1720569329 source:c:\users\diego\desktop\juego\05-07\05-07 actualizacion\inicio.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"menu.h"
+
+1720653478 c:\users\diego\desktop\juego\05-07\05-07 actualizacion\inicio.h
+
+1720653478 source:c:\users\diego\desktop\juego\05-07\05-07 actualizacion\incio.cpp
+	<iostream>
+	"menu.h"
+
+1720506244 source:c:\users\diego\desktop\juego\juego super épico terminado\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1720156342 c:\users\diego\desktop\juego\juego super épico terminado\calcularpuntaje.h
+	<iostream>
+	<windows.h>
+
+1720074195 c:\users\diego\desktop\juego\juego super épico terminado\funciones.h
+	<iostream>
+	<windows.h>
+
+1720074195 source:c:\users\diego\desktop\juego\juego super épico terminado\dibujarcuadrado.cpp
+	<iostream>
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720074195 c:\users\diego\desktop\juego\juego super épico terminado\dibujarcuadrado.h
+
+1720074199 c:\users\diego\desktop\juego\juego super épico terminado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720074195 source:c:\users\diego\desktop\juego\juego super épico terminado\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720653478 source:c:\users\diego\desktop\juego\juego super épico terminado\incio.cpp
+	<iostream>
+	"menu.h"
+
+1720653478 c:\users\diego\desktop\juego\juego super épico terminado\menu.h
+
+1720657438 source:c:\users\diego\desktop\juego\juego super épico terminado\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"inicio.h"
+
+1720653478 c:\users\diego\desktop\juego\juego super épico terminado\modounjugador.h
+
+1720653478 c:\users\diego\desktop\juego\juego super épico terminado\mododosjugadores.h
+
+1720653478 c:\users\diego\desktop\juego\juego super épico terminado\puntajemasalto.h
+
+1720653478 c:\users\diego\desktop\juego\juego super épico terminado\inicio.h
+
+1720653478 source:c:\users\diego\desktop\juego\juego super épico terminado\menu.cpp
+	<iostream>
+	"menu.h"
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"modosimulado.h"
+	<windows.h>
+	<mmsystem.h>
+	"inicio.h"
+
+1720074197 c:\users\diego\desktop\juego\juego super épico terminado\modosimulado.h
+
+1720657438 source:c:\users\diego\desktop\juego\juego super épico terminado\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720552996 source:c:\users\diego\desktop\juego\juego super épico terminado\modosimulado.cpp
+	<iostream>
+	"modosimulado.h"
+	"funciones.h"
+	"calcularPuntaje.h"
+
+1720657471 source:c:\users\diego\desktop\juego\juego super épico terminado\puntajemasalto.cpp
+	<iostream>
+	"funciones.h"
+	"inicio.h"
+
+1720823492 source:c:\users\diego\desktop\presentación juego terminado 12-07\calcularpuntaje.cpp
+	<iostream>
+	<cstdlib>
+	"calcularPuntaje.h"
+	"funciones.h"
+
+1720156342 c:\users\diego\desktop\presentación juego terminado 12-07\calcularpuntaje.h
+	<iostream>
+	<windows.h>
+
+1720074195 c:\users\diego\desktop\presentación juego terminado 12-07\funciones.h
+	<iostream>
+	<windows.h>
+
+1720074195 source:c:\users\diego\desktop\presentación juego terminado 12-07\dibujarcuadrado.cpp
+	<iostream>
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720074195 c:\users\diego\desktop\presentación juego terminado 12-07\dibujarcuadrado.h
+
+1720074199 c:\users\diego\desktop\presentación juego terminado 12-07\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720653478 source:c:\users\diego\desktop\presentación juego terminado 12-07\incio.cpp
+	<iostream>
+	"menu.h"
+
+1720653478 c:\users\diego\desktop\presentación juego terminado 12-07\menu.h
+
+1720657438 source:c:\users\diego\desktop\presentación juego terminado 12-07\main.cpp
+	<iostream>
+	<ctime>
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"inicio.h"
+
+1720653478 c:\users\diego\desktop\presentación juego terminado 12-07\modounjugador.h
+
+1720653478 c:\users\diego\desktop\presentación juego terminado 12-07\mododosjugadores.h
+
+1720653478 c:\users\diego\desktop\presentación juego terminado 12-07\puntajemasalto.h
+
+1720653478 c:\users\diego\desktop\presentación juego terminado 12-07\inicio.h
+
+1720653478 source:c:\users\diego\desktop\presentación juego terminado 12-07\menu.cpp
+	<iostream>
+	"menu.h"
+	"modoUnJugador.h"
+	"modoDosJugadores.h"
+	"funciones.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"modosimulado.h"
+	<windows.h>
+	<mmsystem.h>
+	"inicio.h"
+
+1720074197 c:\users\diego\desktop\presentación juego terminado 12-07\modosimulado.h
+
+1720657438 source:c:\users\diego\desktop\presentación juego terminado 12-07\mododosjugadores.cpp
+	<iostream>
+	"funciones.h"
+	"modoDosJugadores.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
+1720552996 source:c:\users\diego\desktop\presentación juego terminado 12-07\modosimulado.cpp
+	<iostream>
+	"modosimulado.h"
+	"funciones.h"
+	"calcularPuntaje.h"
+
+1720658302 source:c:\users\diego\desktop\presentación juego terminado 12-07\modounjugador.cpp
+	<iostream>
+	"funciones.h"
+	"modoUnJugador.h"
+	"calcularPuntaje.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+	"puntajeMasAlto.h"
+	"inicio.h"
+
+1720657471 source:c:\users\diego\desktop\presentación juego terminado 12-07\puntajemasalto.cpp
+	<iostream>
+	"funciones.h"
+	"inicio.h"
+
+1720820431 source:c:\users\diego\desktop\presentación juego terminado 12-07\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dibujarCuadrado.h"
+	"rlutil.h"
+
